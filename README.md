@@ -1,1 +1,3 @@
 # coding-test
+- python
+- sql
